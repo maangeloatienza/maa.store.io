@@ -32,6 +32,9 @@
   padding:10px;
   display:flex;
   flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  text-align: left;
 }
 
 .product__description {
@@ -44,6 +47,7 @@
   header > nav {
     min-height: 70px;
   }
+
 }
 
 /* sm */
