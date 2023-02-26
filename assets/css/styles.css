@@ -13,7 +13,8 @@ body {
 }
 
 hr {
-  max-width : 800px;
+  min-width: 60%;
+  max-width : 80%;
   margin: 0 auto;
 }
 
