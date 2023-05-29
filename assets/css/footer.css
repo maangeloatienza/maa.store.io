@@ -1,7 +1,7 @@
 footer {
   padding: 20px 0;
   min-height : 200px;
-  background-color: var(--color-black);
+  background-color: var(--primary-color);
   color: var(--secondary-color);
 }
 
@@ -35,6 +35,8 @@ footer {
   max-width: max-content;
   padding: 5px 10px;
   border-radius: 20px;
+  outline : none;
+  border: none;
 }
 
 .footer__menu--wrapper {
